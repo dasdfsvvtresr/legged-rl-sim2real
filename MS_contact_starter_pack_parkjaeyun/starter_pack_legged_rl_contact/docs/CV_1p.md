@@ -1,7 +1,7 @@
 # 박재윤 (Park Jae Yun) — MS Applicant · Legged RL & Sim2Real
 
 - Email: <kmisuk1127@naver.com> · Mobile: <010-5632-0376>
-- GitHub: <https://github.com/dasdfsvvtresr> · (선택) Demo: <( https://www.youtube.com/@jyp7150)>
+- GitHub: <https://github.com/dasdfsvvtresr> ·  Demo: <( https://www.youtube.com/@jyp7150)>
 - Affiliation: Mokwon Univ., B.S. in Electrical & Electronics Engineering (GPA 3.75/4.5>)
 
 ## Research Interests
